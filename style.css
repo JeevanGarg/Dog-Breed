@@ -1,0 +1,25 @@
+#background{
+    background-color: dodgerblue;
+    width: 100%;
+    height: 15vh;
+}
+
+#dog-breed{
+    text-align: center;
+    padding-top: 50px;
+}
+#select-breed{
+    margin-right: 80px;
+    padding: 10px;
+}
+#result{
+    margin: 8vh;
+    text-align: center;
+}
+#dog-sub-breeds{
+    padding: 12px;
+}
+#image-breed img{
+    height: 150px;
+    width: 100px;
+}
